@@ -1,0 +1,7 @@
+export const USER_INFO = 'USER_INFO';
+export const CREATE_WALLET_DATA = 'CREATE_WALLET_DATA';
+export const DELETE_WALLET_DATA = 'DELETE_WALLET_DATA';
+export const EDIT_WALLET_DATA = 'EDIT_WALLET_DATA';
+export const THUNK_FETCH = 'THUNK_FETCH';
+export const ERROR_FETCH = 'ERROR_FETCH';
+export const RETURN_DATA = 'RETURN_DATA';

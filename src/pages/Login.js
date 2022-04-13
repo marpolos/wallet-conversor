@@ -44,7 +44,7 @@ class Login extends React.Component {
     return (
       <>
         <h1>TrybeWallet</h1>
-        { redirect && <Redirect to="/carteira" />}
+        { redirect && <Redirect to="/wallet-conversor/carteira" />}
         <fildset>
           <label htmlFor="email">
             Email
